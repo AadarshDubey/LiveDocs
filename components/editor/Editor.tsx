@@ -14,7 +14,7 @@ import { FloatingComposer, FloatingThreads, liveblocksConfig, LiveblocksPlugin, 
 import { useThreads } from '@liveblocks/react/suspense';
 import Loader from '../Loader';
 import FloatingToolbarPlugin from './plugins/FloatingToolbarPlugin';
-import Comments from '../comments';
+import Comments from '../Comments';
 import { DeleteModal } from '../DeleteModal';
 // Catch any errors that occur during Lexical updates and log them
 // or throw them as needed. If you don't throw them, Lexical will
